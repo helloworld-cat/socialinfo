@@ -4,15 +4,7 @@ Retreive information from social networks (Facebook, Twitter, etc.) about an url
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'socialinfo'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install socialinfo
 
