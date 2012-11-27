@@ -1,6 +1,6 @@
 # Socialinfo
 
-Retreive information from social networks (Facebook, Twitter, etc.) about an url.
+Retrieve information from social networks (Facebook, Twitter, etc.) about an url.
 
 ## Installation
 

@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.version       = Socialinfo::VERSION
   gem.authors       = ["Sam"]
   gem.email         = ["samuel@pagedegeek.com"]
-  gem.description   = %q{retreive information from social networks (Facebook, Twitter, etc.) about an url.}
+  gem.description   = %q{retrieve information from social networks (Facebook, Twitter, etc.) about an url.}
   gem.summary       = %q{use: socialinfo <url>}
   gem.homepage      = "http://github.com/PagedeGeek/socialinfo"
 
