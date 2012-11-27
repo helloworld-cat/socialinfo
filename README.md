@@ -1,6 +1,6 @@
 # Socialinfo
 
-TODO: Write a gem description
+Retreive information from social networks (Facebook, Twitter, etc.) about an url.
 
 ## Installation
 
